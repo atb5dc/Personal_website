@@ -1,1 +1,2 @@
-# Personal_website
+# personal-website
+Sefunmi's personal website!
